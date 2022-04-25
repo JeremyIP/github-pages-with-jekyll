@@ -1,3 +1,9 @@
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
+
+
 title: GitHub
 author: Jeremy
 email: gmail.com
@@ -14,7 +20,3 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
 
----
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
----
