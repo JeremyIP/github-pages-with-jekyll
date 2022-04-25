@@ -1,4 +1,5 @@
-title: GitHub
+#
+title: "GitHub"
 author: Jeremy
 date: 2022-04-25
 email: gmail.com
@@ -14,4 +15,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-
+#
